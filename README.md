@@ -39,3 +39,5 @@ serial_number_recovery
 
 >An exploit that allows you to recover a lost device serial number.
 >The serial number will be the most common among clones - 050715001789.
+
+*** I have to split the archive into 2 parts due to the size restriction of GitHub.

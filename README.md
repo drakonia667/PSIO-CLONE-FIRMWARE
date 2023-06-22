@@ -2,7 +2,7 @@
 
 Instructions for updating the software of PSIO copies / clones:
 
-1. Download archives MENU2628 and menu2628_hack_v4_patch;
+1. Download archives MENU2628 and menu2628_hack_v5_patch;
 2. Unpack the contents of the downloaded archives into a separate directory;
 3. Run the patch.cmd script, wait for completion, as a result, only the MENU.SYS file will remain in the directory;
 4. Place the resulting MENU.SYS file on the SD card;

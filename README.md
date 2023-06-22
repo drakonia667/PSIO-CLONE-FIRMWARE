@@ -17,28 +17,29 @@ Reference
 
 MENU2628
 
-Original MENU.SYS version 2.6 (build 28).
-
-DO NOT USE WITHOUT A PATCH!
-Otherwise, you can get a "brick" of the device (clearing the contents of the EEPROM SPI microcircuit), as well as losing the serial number recorded in the internal memory of the ARM microcontroller.
+>Original MENU.SYS version 2.6 (build 28).
+>
+>DO NOT USE WITHOUT A PATCH!
+>Otherwise, you can get a "brick" of the device (clearing the contents of the EEPROM SPI microcircuit), as well as losing the serial number recorded in the internal memory of the ARM microcontroller.
 
 UPDATE2628
 
-Files required to upgrade from Menu System version 2.6 (build 3).
+>Files required to upgrade from Menu System version 2.6 (build 3).
 
 RECOVERY2628
 
-Files needed to restore the "brick" (the contents of the EEPROM of the SPI chip have been cleared). This is the same as UPDATE2628, with the only difference being that the "FIRMWARE.AFW" file has been renamed to "RECOVERY.BIN".
+>Files needed to restore the "brick" (the contents of the EEPROM of the SPI chip have been cleared). This is the same as UPDATE2628, with the only difference being that the "FIRMWARE.AFW" file has been renamed to "RECOVERY.BIN".
 
 menu2628_hack_v4_patch
 
-A set of files for making changes to the original MENU.SYS version 2.6 (build 28), allowing it to be used on PSIO copies/clones.
+>A set of files for making changes to the original MENU.SYS version 2.6 (build 28), allowing it to be used on PSIO copies/clones.
 
 menu2628_hack_v5_patch
 
-A set of files for making changes to the original MENU.SYS version 2.6 (build 28), allowing it to be used on PSIO copies/clones.
-In v5, added the display of the serial number with zeros in case it was erased.
+>A set of files for making changes to the original MENU.SYS version 2.6 (build 28), allowing it to be used on PSIO copies/clones.
+>In v5, added the display of the serial number with zeros in case it was erased.
 
 serial_number_recovery
 
-	An exploit that allows you to recover a lost device serial number. The serial number will be the most common among clones - 050715001789.
+>An exploit that allows you to recover a lost device serial number.
+>The serial number will be the most common among clones - 050715001789.

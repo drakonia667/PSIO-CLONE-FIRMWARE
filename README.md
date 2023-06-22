@@ -1,4 +1,4 @@
-# PSIO CLONE FIRMWARE UPDATE
+# PSIO CLONE FIRMWARE UPDATE & USEFUL TOOLS
 
 Instructions for updating the software of PSIO copies / clones:
 

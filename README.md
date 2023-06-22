@@ -30,10 +30,6 @@ RECOVERY2628
 
 >Files needed to restore the "brick" (the contents of the EEPROM of the SPI chip have been cleared). This is the same as UPDATE2628, with the only difference being that the "FIRMWARE.AFW" file has been renamed to "RECOVERY.BIN".
 
-menu2628_hack_v4_patch
-
->A set of files for making changes to the original MENU.SYS version 2.6 (build 28), allowing it to be used on PSIO copies/clones.
-
 menu2628_hack_v5_patch
 
 >A set of files for making changes to the original MENU.SYS version 2.6 (build 28), allowing it to be used on PSIO copies/clones.
